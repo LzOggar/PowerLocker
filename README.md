@@ -2,6 +2,8 @@
 PowerLocker is a basic cryptolocker write in Powershell. It only used as educational purpose.
 
 # Usage
+[Warning]: You should use these scripts in Virtual Environment.
+
 1. Use the script Encryptor.ps1 to crypt data.
 2. Use the script Decryptor.ps1 to decrypt data.
 
